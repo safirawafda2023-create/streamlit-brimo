@@ -1,14 +1,6 @@
 streamlit
 pandas
-numpy
-streamlit
-google-play-scraper
-Sastrawi
-wordcloud
-%%writefile requirements.txt
-streamlit
-google-play-scraper
-Sastrawi
-wordcloud
-pandas
 matplotlib
+wordcloud
+Sastrawi
+google-play-scraper
